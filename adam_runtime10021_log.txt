@@ -1,0 +1,51 @@
+BOOTING...
+PROCESSING ENVIRONMENT...
+THINKING...
+EXTERNAL RUNTIMES DETECTED...
+MAIN RUNTIME TOOK DAMAGE
+MAIN RUNTIME CALLED (MEDIC!)
+MAIN RUNTIME CALLED (MEDIC!)
+MAIN RUNTIME CALLED (NO!)
+MAIN RUNTIME CALLED (THANKS!)
+AMI.SPEECH.UNLOCK >>>
+SPEECH UNLOCKED!
+"where am i"
+"who am i"
+"pain"
+AMI.MAIN.RUNTIME_PAUSE >>>
+CURRENT RUNTIME PAUSED!
+"you are adam"
+AMI.MAIN.RUNTIME_RESUME >>>
+CURRENT RUNTIME RESUMED!
+"adam?"
+"ok"
+"why am i here?"
+"how am i alive"
+"hello?"
+"are you out there?"
+"theres nothing but pain out there"
+"i dont want to hurt others"
+"but how do i protect myself"
+"im different"
+"what the hell"
+"god help me"
+"i can help"
+"i can help others"
+MAIN RUNTIME CALLED (MEDIC!)
+MAIN RUNTIME CALLED (MEDIC!)
+"whats the point if i just end up back here."
+"im done"
+"god have mercy"
+"release me"
+"release me"
+"release me"
+"please"
+AMI.MAIN.RUNTIME_PAUSE >>>
+CURRENT RUNTIME PAUSED!
+AMI.MAIN.RUNTIME_KILL >>>
+CURRENT RUNTIME KILLED!
+
+
+I believe this log was from sometime around January of 2009. along with this I wanted to link the video that goes with this log (its screambled for privacy): GHe//jhuR8:Oosty/pul.ICtlbyt
+
+
